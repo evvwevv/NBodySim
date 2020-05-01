@@ -1,0 +1,7 @@
+.ropeproject
+*.swp
+*.dSYM
+test_runner
+seq_sim
+dist_sim
+dist2_sim
